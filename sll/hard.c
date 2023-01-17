@@ -1,10 +1,3 @@
-//
-//  main.c
-//  sll
-//
-//  Created by Ryousuke Takahashi on 2023/01/16.
-//
-
 #include <stdio.h>
 #define MAX_LENGTH 10
 #define SIZE_OVER -3
